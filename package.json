@@ -1,5 +1,5 @@
 {
-  "name": "multer-cloud-storage",
+  "name": "@newredo/multer-cloud-storage",
   "version": "3.1.0",
   "description": "Multer storage engine for Google Cloud Storage",
   "main": "lib/index.js",
